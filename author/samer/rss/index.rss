@@ -1,73 +1,38 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Samer Costello - Costello // Unscripted</title><description>Thoughts, ideas and some terrible advice.</description><link>http://samercostello.github.io/</link><generator>Ghost 0.5</generator><lastBuildDate>Wed, 10 Dec 2014 10:14:30 GMT</lastBuildDate><atom:link href="http://samercostello.github.io/author/samer/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>Test Blogpost 2</title><description>&lt;h1 id="thisistheend"&gt;This is the end&lt;/h1&gt;
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Samer Costello - Costello // Unscripted</title><description>Thoughts, ideas and some terrible advice.</description><link>http://samercostello.github.io/</link><generator>Ghost 0.5</generator><lastBuildDate>Wed, 10 Dec 2014 13:56:40 GMT</lastBuildDate><atom:link href="http://samercostello.github.io/author/samer/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>How 5 guys made $1000 in an hour on Playstation Network</title><description>&lt;h2 id="astoryofseizedopportunity"&gt;A story of seized opportunity&lt;/h2&gt;
 
-&lt;p&gt;Today I begin a journey unline any other before.&lt;/p&gt;
+&lt;p&gt;On December 6th 2014, in celebration of Sony's 20 years of Playstation, EA Chief Operating Officer Peter Moore took the stage at Sony’s PlayStation Experience event to reveal that Need for Speed: Most Wanted, Mirror’s Edge, and Plants Vs. Zombies: Garden Warfare are all free to download in the PlayStation Store for a limited time.&lt;/p&gt;
 
-&lt;p&gt;Wow, it's really hard to type in markdown.&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://www.highdefdigest.com/uploads/jb/EA_201th_PS_free_games.jpg" alt="PS EA Offer"&gt;&lt;/p&gt;
 
-&lt;p&gt;I,m just like thinking out loud and I don't wanna offend anyone but damn. &lt;br&gt;
-This shit be hilarious.&lt;/p&gt;</description><link>http://samercostello.github.io/test-blogpost-2/</link><guid isPermaLink="false">5b1f3bfe-1542-4126-99e8-e254dedd7e41</guid><category>wtf?</category><category>hello there images</category><dc:creator>Samer Costello</dc:creator><pubDate>Tue, 09 Dec 2014 17:59:50 GMT</pubDate></item><item><title>Welcome to Ghost</title><description>&lt;p&gt;You're live! Nice. We've put together a little post to introduce you to the Ghost editor and get you started. You can manage your content by signing in to the admin area at &lt;code&gt;&amp;lt;your blog URL&amp;gt;/ghost/&lt;/code&gt;. When you arrive, you can select this post from a list on the left and see a preview of it on the right. Click the little pencil icon at the top of the preview to edit this post and read the next section!&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.digitaltrends.com/gaming/need-speed-mirrors-edge-plants-vs-zombies-free-playstation-right-now/#ixzz3LV5HF8Ga"&gt;Read more about the offer&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id="gettingstarted"&gt;Getting Started&lt;/h2&gt;
+&lt;p&gt;This is a story of how 5 guys took advantage of that announcement, and made $1000 each from it a few days later.&lt;/p&gt;
 
-&lt;p&gt;Ghost uses something called Markdown for writing. Essentially, it's a shorthand way to manage your post formatting as you write!&lt;/p&gt;
+&lt;p&gt;On a warm Saturday afternoon, a couple of guys are lounging in the sitting room, enjoying a tournament of Fifa, when an unexpected phone call arrives. It's their friend Abat, notifying them of an offer about to end in a few hours. &lt;br&gt;
+At first, they're not too interested, after all, some of them had no consoles of their own, and the others simply lacked the motivation to play such games. &lt;br&gt;
+They were Fifa die hards through and through. &lt;br&gt;
+But one of them saw and opportunity, and nothing, I mean, nothing motivates a human being like the smell of money(except maybe sex, and hunger...and a couple of other things. Ok so, maybe not nothing. But you get the point.)&lt;/p&gt;
 
-&lt;p&gt;Writing in Markdown is really easy. In the left hand panel of Ghost, you simply write as you normally would. Where appropriate, you can use &lt;em&gt;shortcuts&lt;/em&gt; to &lt;strong&gt;style&lt;/strong&gt; your content. For example, a list:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Item number one&lt;/li&gt;
-&lt;li&gt;Item number two
-&lt;ul&gt;&lt;li&gt;A nested item&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;A final item&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;or with numbers!&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Remember to buy some milk  &lt;/li&gt;
-&lt;li&gt;Drink the milk  &lt;/li&gt;
-&lt;li&gt;Tweet that I remembered to buy the milk, and drank it&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id="links"&gt;Links&lt;/h3&gt;
-
-&lt;p&gt;Want to link to a source? No problem. If you paste in a URL, like &lt;a href="http://ghost.org/"&gt;http://ghost.org&lt;/a&gt; - it'll automatically be linked up. But if you want to customise your anchor text, you can do that too! Here's a link to &lt;a href="http://ghost.org/"&gt;the Ghost website&lt;/a&gt;. Neat.&lt;/p&gt;
-
-&lt;h3 id="whataboutimages"&gt;What about Images?&lt;/h3&gt;
-
-&lt;p&gt;Images work too! Already know the URL of the image you want to include in your article? Simply paste it in like this to make it show up:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="https://ghost.org/images/ghost.png" alt="The Ghost Logo"&gt;&lt;/p&gt;
-
-&lt;p&gt;Not sure which image you want to use yet? That's ok too. Leave yourself a descriptive placeholder and keep writing. Come back later and drag and drop the image in to upload:&lt;/p&gt;
-
-&lt;h3 id="quoting"&gt;Quoting&lt;/h3&gt;
-
-&lt;p&gt;Sometimes a link isn't enough, you want to quote someone on what they've said. It was probably very wisdomous. Is wisdomous a word? Find out in a future release when we introduce spellcheck! For now - it's definitely a word.&lt;/p&gt;
+&lt;p&gt;In a matter of minutes, all 5 guys were on their laptops, setting up accounts. The process was rather simple:  &lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;Wisdomous - it's definitely a word.&lt;/p&gt;
+  &lt;p&gt;Infiltrate the dealer, find the supplier. LOL :D&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h3 id="workingwithcode"&gt;Working with Code&lt;/h3&gt;
+&lt;p&gt;1.Setup Gmail account &lt;br&gt;
+2.Use it to Sign Up for PSN &lt;br&gt;
+3."Purchase" Games&lt;/p&gt;
 
-&lt;p&gt;Got a streak of geek? We've got you covered there, too. You can write inline &lt;code&gt;&amp;lt;code&amp;gt;&lt;/code&gt; blocks really easily with back ticks. Want to show off something more comprehensive? 4 spaces of indentation gets you there.&lt;/p&gt;
+&lt;p&gt;By the time the offer ended, they'd set up 103 accounts in total. These accounts were sold across several online platforms at $10 each. The accounts sold like hot cakes. I mean, who wouldn't wanna save $25 dollars on a game.&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;.awesome-thing {
-    display: block;
-    width: 100%;
-}
-&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Three days later, all the accounts had been sold. The 5 guys met up to withdraw the money and split it amongst themselves. &lt;br&gt;
+Their only regret was not having heard of the offer earlier. &lt;br&gt;
+If $1000 dollars could be made in 2 hours, imagine how much they could have made in the 2 days the offer was running for.&lt;/p&gt;
 
-&lt;h3 id="readyforabreak"&gt;Ready for a Break?&lt;/h3&gt;
+&lt;p&gt;And to lighten the mood a bit, here's a quote from Peter Drucker:  &lt;/p&gt;
 
-&lt;p&gt;Throw 3 or more dashes down on any new line and you've got yourself a fancy new divider. Aw yeah.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;The entrepreneur always searches for change, responds to it, and exploits it as an opportunity.&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;hr&gt;
-
-&lt;h3 id="advancedusage"&gt;Advanced Usage&lt;/h3&gt;
-
-&lt;p&gt;There's one fantastic secret about Markdown. If you want, you can write plain old HTML and it'll still work! Very flexible.&lt;/p&gt;
-
-&lt;p&gt;&lt;input type="text" placeholder="I'm an input field!"&gt;&lt;/p&gt;
-
-&lt;p&gt;That should be enough to get you started. Have fun - and let us know what you think :)&lt;/p&gt;</description><link>http://samercostello.github.io/welcome-to-ghost/</link><guid isPermaLink="false">bd7791c1-25f3-46ec-93c4-4b52fafc8349</guid><category>Getting Started</category><dc:creator>Samer Costello</dc:creator><pubDate>Tue, 09 Dec 2014 17:12:50 GMT</pubDate></item></channel></rss>
+&lt;p&gt;Lesson learnt: &lt;strong&gt;Always be on the lookout for change.&lt;/strong&gt;&lt;/p&gt;</description><link>http://samercostello.github.io/thousand-in-an-hour/</link><guid isPermaLink="false">5b1f3bfe-1542-4126-99e8-e254dedd7e41</guid><category>wtf?</category><category>hello there images</category><dc:creator>Samer Costello</dc:creator><pubDate>Wed, 10 Dec 2014 13:59:00 GMT</pubDate></item></channel></rss>
